@@ -1,10 +1,10 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=27px height=27px></img> Hi, there!</h1>
 
 <h2>👨🏻‍💻 About Me</h2>
-<h3>I'm Full Stack Engineer with 7 years of hands-on experience in developing and deploying mobile and web applications.</h3>
-<h3>🏃 I contributed to bringing visions of several companies to a reality by making a great progress in the development team, finding solutions and determining customer satisfaction.</h3>
-<h3>🔥 Have a proven track record in crafting multiple highly-scalable applications using different tech stacks.</h3>
-<h3>⚡ I love to work with talents in agile work environments. Meaningful and efficient communication is one of my highlighting skills and I consider it one of the most important qualifications of a remote engineer.</h3>
+<p>I'm Full Stack Engineer with 7 years of hands-on experience in developing and deploying mobile and web applications.</p>
+<p>🏃 I contributed to bringing visions of several companies to a reality by making a great progress in the development team, finding solutions and determining customer satisfaction.</p>
+<p>🔥 Have a proven track record in crafting multiple highly-scalable applications using different tech stacks.</p>
+<p>⚡ I love to work with talents in agile work environments. Meaningful and efficient communication is one of my highlighting skills and I consider it one of the most important qualifications of a remote engineer.</p>
 
 <hr><h2>🚀Hard Skills<h2>
 <div align="center">
