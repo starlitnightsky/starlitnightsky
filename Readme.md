@@ -66,7 +66,7 @@
 <h2>⚙️  GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-profile-trophy.vercel.app/?username=starlitnightsky&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories,Issues,PullRequest" />
+    <img src="https://github-profile-trophy.vercel.app/?username=starlitnightsky&title=MultiLanguage,Commits,Stars,Followers,Organizations,Issues,PullRequest" />
   </a>
 </div>
 <div align="center">
