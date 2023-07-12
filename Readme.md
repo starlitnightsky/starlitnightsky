@@ -77,10 +77,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=starlitnightsky&show_icons=true&theme=dracula&include_all_commits=true" />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=starlitnightsky&theme=dracula" />
-  </a>
-</div>
-
+  
 ![Snake animation](https://github.com/starlitnightsky/starlitnightsky/blob/output/github-contribution-grid-snake.svg)
