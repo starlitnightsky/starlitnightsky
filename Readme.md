@@ -71,10 +71,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarlitNightSky&theme=dracula&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starlitnightsky&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less" />
   </a>
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-stats.vercel.app/api?username=StarlitNightSky&show_icons=true&theme=dracula&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=starlitnightsky&show_icons=true&theme=dracula&include_all_commits=true" />
   </a>
 </div>
 <div align="center">
