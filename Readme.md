@@ -66,7 +66,7 @@
 <h2>⚙️  GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-profile-trophy.vercel.app/?username=mastercodercat&title=MultiLanguage,Commits,Stars,Followers,Organizations,Issues,PullRequest" />
+    <img src="https://github-profile-trophy.vercel.app/?username=starlitnightsky&title=MultiLanguage,Commits,Stars,Followers,Organizations,Issues,PullRequest" />
   </a>
 </div>
 <div align="center">
@@ -74,7 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&theme=dracula&layout=compact&hide=html,scss,makefile,ruby,css,less" />
   </a>
   <a href="https://github.com/starlitnightsky">
-    <img src="https://github-readme-stats.vercel.app/api?username=mastercodercat&show_icons=true&theme=dracula&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=starlitnightsky&show_icons=true&theme=dracula&include_all_commits=true" />
   </a>
 </div>
   
