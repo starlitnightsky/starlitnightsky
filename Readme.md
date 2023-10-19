@@ -6,7 +6,7 @@
 <p>🔥 Have a proven track record in crafting multiple highly-scalable applications using different tech stacks.</p>
 <p>⚡ I love to work with talents in agile work environments. Meaningful and efficient communication is one of my highlighting skills and I consider it one of the most important qualifications of a remote engineer.</p>
 
-<hr><h2>🚀Hard Skills<h2>
+<h2>🚀Hard Skills<h2>
 <div align="center">
   <div>
     <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -53,7 +53,7 @@
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
 </div>
-<hr><h2>⭐Soft Skills<h2>
+<h2>⭐Soft Skills<h2>
 <div style="display:flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Time%20management-0077B5?style=for-the-badge">
   <img src="https://img.shields.io/badge/Teamwork-0077B5?style=for-the-badge">
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Attention%20to%20detail-0077B5?style=for-the-badge">
   <img src="https://img.shields.io/badge/Creative%20thinking-0077B5?style=for-the-badge">
   <img src="https://img.shields.io/badge/Adaptability-0077B5?style=for-the-badge">
-</div><hr>
+</div>
 <h2>⚙️  GitHub Analytics</h2>
 <div align="center">
   <a href="https://github.com/starlitnightsky">
